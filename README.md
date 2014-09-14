@@ -38,7 +38,6 @@ Installation
 ------------
 
 1. `git clone https://github.com/auspaul/zmadsync.git zmadsync`
-2. Install required packages `yum install perl-LDAP perl-Config-Simple`
+2. The script requires the following Perl packages installed `yum install perl-LDAP perl-Config-Simple`
 3. Edit config file
 4. Create a cron job as a zimbra user
-
